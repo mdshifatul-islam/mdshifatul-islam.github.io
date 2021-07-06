@@ -12,9 +12,9 @@ $(function(){
           slideShadows: true,
         },
         loop: true,
-        // autoplay: {
-        //     delay: 7000,
-        //     disableOnInteraction: false,
-        //   },
+        autoplay: {
+            delay: 7000,
+            disableOnInteraction: false,
+          },
       });
 })
